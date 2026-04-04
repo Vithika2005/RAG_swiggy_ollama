@@ -89,8 +89,8 @@ swiggy-rag/
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/Vithika2005/RAG_Swiggy.git
-cd RAG_Swiggy/backend
+git clone https://github.com/Vithika2005/RAG_swiggy_ollama.git
+cd RAG_swiggy_ollama/backend
 ```
 
 ---
