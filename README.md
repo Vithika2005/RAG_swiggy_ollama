@@ -23,7 +23,7 @@ To design an AI system that:
 ---
 
 # 🏗️ Architecture
-
+<img src="https://raw.githubusercontent.com/Vithika2005/RAG_swiggy_ollama/main/rag_working.jpeg" width="800"/>
 ```
 PDF → Text → Chunking → ChromaDB (Embeddings)
                                       ↓
